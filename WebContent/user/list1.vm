@@ -1,0 +1,12 @@
+<html>
+<body>
+<table border=1>
+#foreach ($u in $list)
+    <tr>
+    	<td>${u.username}</td>
+    	<td>${u.password}</td>
+    </tr>
+#end
+</table>
+</body>
+</html>

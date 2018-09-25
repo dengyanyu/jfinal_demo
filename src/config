@@ -1,0 +1,3 @@
+jdbcUrl=jdbc:mysql://10.2.11.119/1602b?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+jdbcUserName=root
+jdbcPwd=root
